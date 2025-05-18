@@ -1,2 +1,8 @@
-# Manual-Testing-Zomato-Clone
-Manual QA test cases, scenarios, bug reports, and API tests for a fictional food delivery app.
+A beginner QA project by Vamsi demonstrating:
+- Test plans
+- Scenarios
+- Test cases
+- Bug reports
+- API test examples
+
+This project showcases my approach to structured, real-world QA for web/mobile applications.
